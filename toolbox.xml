@@ -1,0 +1,5 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="Cảm biến MQx" colour="#6642bf" icon="beer">
+    <block type="xbot_mq_sensor"/>
+  </category>
+</xml>
